@@ -3,4 +3,4 @@ Example plots as a function of time for:
 - spms: calibrated energy in PE
 - ch000: maximum of waveform (from dsp/wf_max) - for HWpulser+FCtrigger events
 
-Values are shown for the whole run #25.
+Values are shown for run #25.
